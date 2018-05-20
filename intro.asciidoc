@@ -25,7 +25,7 @@ Ethereum's currency unit is called _ether_, identified also as ETH or with the s
 
 [TIP]
 ====
-Use Unicode character 926 for &#926; and 9830 for &#9830;.
+Use Unicode character +U+039E+ (decimal 926) for &#926; and +U+2666+ (decimal 9830) for &#9830;.
 ====
 
 Ether is subdivided into smaller units, down to the smallest unit possible, which is named _wei_. One _ether_ is 1 quintillion _wei_ (1 x 10^18^ or 1,000,000,000,000,000,000). You may hear people refer to the currency "Ethereum" too, but this is a common beginner's mistake. Ethereum is the system, ether is the currency.
