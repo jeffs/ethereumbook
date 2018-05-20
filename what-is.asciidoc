@@ -240,7 +240,7 @@ In addition, many DApps include other decentralized components, such as:
 
 [TIP]
 ====
-You may see DApps spelled as &#208;Apps. The &#208; character is the Latin character called "ETH", alluding to Ethereum. To display this character, use decimal entity +#208+ in HTML, and Unicode characters +0xCE+ (UTF-8), or +0x00D0+ (UTF-16).
+You may see DApps spelled as &#208;Apps. The &#208; character is the Latin character called "ETH", alluding to Ethereum. To display this character, use decimal entity +#208+ in HTML, and Unicode code point +U+00D0+ (represented in UTF-8 as the two-byte sequence +0xC3 0x90+).
 ====
 
 [[evolving_WWW]]
